@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalExam2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_movie_name">Movie name</string>
+    <string name="hint_description">Movie description</string>
+    <string name="hint_link">Link to movie resource</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="hint_movie_db">Movie Database</string>
+    <string name="catalogue">Your Catalogue: </string>
+</resources>
